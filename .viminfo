@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1694893304,,"wq"
+|2,0,1694895808,,"wq"
 :q
 |2,0,1694742107,,"q"
 :iq
@@ -36,33 +36,43 @@
 
 # File marks:
 '0  33  0  ~/alx-low_level_programming/0x04-more_functions_nested_loops/0-isupper.c
-|4,48,33,0,1694893304,"~/alx-low_level_programming/0x04-more_functions_nested_loops/0-isupper.c"
-'1  2  68  ~/.git/MERGE_MSG
-|4,49,2,68,1694888899,"~/.git/MERGE_MSG"
-'2  33  0  ~/alx-low_level_programming/0x04-more_functions_nested_loops/0-isupper.c
-|4,50,33,0,1694887525,"~/alx-low_level_programming/0x04-more_functions_nested_loops/0-isupper.c"
-'3  1  22  ~/alx-low_level_programming/0x04-more_functions_nested_loops/README.md
-|4,51,1,22,1694887440,"~/alx-low_level_programming/0x04-more_functions_nested_loops/README.md"
-'4  13  0  ~/alx-low_level_programming/0x04-more_functions_nested_loops/_putchar.c
-|4,52,13,0,1694887407,"~/alx-low_level_programming/0x04-more_functions_nested_loops/_putchar.c"
-'5  12  24  ~/alx-low_level_programming/0x04-more_functions_nested_loops/Main.h
-|4,53,12,24,1694887365,"~/alx-low_level_programming/0x04-more_functions_nested_loops/Main.h"
-'6  1  0  /alx-low_level_programming/.git/MERGE_MSG
-|4,54,1,0,1694813201,"/alx-low_level_programming/.git/MERGE_MSG"
-'7  18  0  /alx-low_level_programming/0x04-more_functions_nested_loops/0-main.c
-|4,55,18,0,1694813002,"/alx-low_level_programming/0x04-more_functions_nested_loops/0-main.c"
-'8  16  0  /alx-low_level_programming/0x04-more_functions_nested_loops/0-isupper.c
-|4,56,16,0,1694812981,"/alx-low_level_programming/0x04-more_functions_nested_loops/0-isupper.c"
-'9  27  43  /alx-low_level_programming/0x04-more_functions_nested_loops/README.md
-|4,57,27,43,1694812954,"/alx-low_level_programming/0x04-more_functions_nested_loops/README.md"
+|4,48,33,0,1694895808,"~/alx-low_level_programming/0x04-more_functions_nested_loops/0-isupper.c"
+'1  33  0  ~/alx-low_level_programming/0x04-more_functions_nested_loops/0-isupper.c
+|4,49,33,0,1694893304,"~/alx-low_level_programming/0x04-more_functions_nested_loops/0-isupper.c"
+'2  2  68  ~/.git/MERGE_MSG
+|4,50,2,68,1694888899,"~/.git/MERGE_MSG"
+'3  33  0  ~/alx-low_level_programming/0x04-more_functions_nested_loops/0-isupper.c
+|4,51,33,0,1694887525,"~/alx-low_level_programming/0x04-more_functions_nested_loops/0-isupper.c"
+'4  33  0  ~/alx-low_level_programming/0x04-more_functions_nested_loops/0-isupper.c
+|4,52,33,0,1694887525,"~/alx-low_level_programming/0x04-more_functions_nested_loops/0-isupper.c"
+'5  1  22  ~/alx-low_level_programming/0x04-more_functions_nested_loops/README.md
+|4,53,1,22,1694887440,"~/alx-low_level_programming/0x04-more_functions_nested_loops/README.md"
+'6  13  0  ~/alx-low_level_programming/0x04-more_functions_nested_loops/_putchar.c
+|4,54,13,0,1694887407,"~/alx-low_level_programming/0x04-more_functions_nested_loops/_putchar.c"
+'7  12  24  ~/alx-low_level_programming/0x04-more_functions_nested_loops/Main.h
+|4,55,12,24,1694887365,"~/alx-low_level_programming/0x04-more_functions_nested_loops/Main.h"
+'8  1  0  /alx-low_level_programming/.git/MERGE_MSG
+|4,56,1,0,1694813201,"/alx-low_level_programming/.git/MERGE_MSG"
+'9  18  0  /alx-low_level_programming/0x04-more_functions_nested_loops/0-main.c
+|4,57,18,0,1694813002,"/alx-low_level_programming/0x04-more_functions_nested_loops/0-main.c"
 
 # Jumplist (newest first):
+-'  33  0  ~/alx-low_level_programming/0x04-more_functions_nested_loops/0-isupper.c
+|4,39,33,0,1694895808,"~/alx-low_level_programming/0x04-more_functions_nested_loops/0-isupper.c"
 -'  33  0  ~/alx-low_level_programming/0x04-more_functions_nested_loops/0-isupper.c
 |4,39,33,0,1694893304,"~/alx-low_level_programming/0x04-more_functions_nested_loops/0-isupper.c"
 -'  2  68  ~/.git/MERGE_MSG
 |4,39,2,68,1694888899,"~/.git/MERGE_MSG"
 -'  2  68  ~/.git/MERGE_MSG
 |4,39,2,68,1694888899,"~/.git/MERGE_MSG"
+-'  2  68  ~/.git/MERGE_MSG
+|4,39,2,68,1694888899,"~/.git/MERGE_MSG"
+-'  2  68  ~/.git/MERGE_MSG
+|4,39,2,68,1694888899,"~/.git/MERGE_MSG"
+-'  1  0  ~/.git/MERGE_MSG
+|4,39,1,0,1694888865,"~/.git/MERGE_MSG"
+-'  1  0  ~/.git/MERGE_MSG
+|4,39,1,0,1694888865,"~/.git/MERGE_MSG"
 -'  1  0  ~/.git/MERGE_MSG
 |4,39,1,0,1694888865,"~/.git/MERGE_MSG"
 -'  1  0  ~/.git/MERGE_MSG
@@ -77,6 +87,24 @@
 |4,39,1,0,1694887483,"~/alx-low_level_programming/0x04-more_functions_nested_loops/0-isupper.c"
 -'  1  0  ~/alx-low_level_programming/0x04-more_functions_nested_loops/0-isupper.c
 |4,39,1,0,1694887483,"~/alx-low_level_programming/0x04-more_functions_nested_loops/0-isupper.c"
+-'  1  0  ~/alx-low_level_programming/0x04-more_functions_nested_loops/0-isupper.c
+|4,39,1,0,1694887483,"~/alx-low_level_programming/0x04-more_functions_nested_loops/0-isupper.c"
+-'  1  22  ~/alx-low_level_programming/0x04-more_functions_nested_loops/README.md
+|4,39,1,22,1694887440,"~/alx-low_level_programming/0x04-more_functions_nested_loops/README.md"
+-'  1  22  ~/alx-low_level_programming/0x04-more_functions_nested_loops/README.md
+|4,39,1,22,1694887440,"~/alx-low_level_programming/0x04-more_functions_nested_loops/README.md"
+-'  1  22  ~/alx-low_level_programming/0x04-more_functions_nested_loops/README.md
+|4,39,1,22,1694887440,"~/alx-low_level_programming/0x04-more_functions_nested_loops/README.md"
+-'  1  22  ~/alx-low_level_programming/0x04-more_functions_nested_loops/README.md
+|4,39,1,22,1694887440,"~/alx-low_level_programming/0x04-more_functions_nested_loops/README.md"
+-'  1  22  ~/alx-low_level_programming/0x04-more_functions_nested_loops/README.md
+|4,39,1,22,1694887440,"~/alx-low_level_programming/0x04-more_functions_nested_loops/README.md"
+-'  1  22  ~/alx-low_level_programming/0x04-more_functions_nested_loops/README.md
+|4,39,1,22,1694887440,"~/alx-low_level_programming/0x04-more_functions_nested_loops/README.md"
+-'  1  22  ~/alx-low_level_programming/0x04-more_functions_nested_loops/README.md
+|4,39,1,22,1694887440,"~/alx-low_level_programming/0x04-more_functions_nested_loops/README.md"
+-'  1  22  ~/alx-low_level_programming/0x04-more_functions_nested_loops/README.md
+|4,39,1,22,1694887440,"~/alx-low_level_programming/0x04-more_functions_nested_loops/README.md"
 -'  1  22  ~/alx-low_level_programming/0x04-more_functions_nested_loops/README.md
 |4,39,1,22,1694887440,"~/alx-low_level_programming/0x04-more_functions_nested_loops/README.md"
 -'  1  22  ~/alx-low_level_programming/0x04-more_functions_nested_loops/README.md
@@ -125,6 +153,70 @@
 |4,39,13,0,1694887407,"~/alx-low_level_programming/0x04-more_functions_nested_loops/_putchar.c"
 -'  13  0  ~/alx-low_level_programming/0x04-more_functions_nested_loops/_putchar.c
 |4,39,13,0,1694887407,"~/alx-low_level_programming/0x04-more_functions_nested_loops/_putchar.c"
+-'  13  0  ~/alx-low_level_programming/0x04-more_functions_nested_loops/_putchar.c
+|4,39,13,0,1694887407,"~/alx-low_level_programming/0x04-more_functions_nested_loops/_putchar.c"
+-'  13  0  ~/alx-low_level_programming/0x04-more_functions_nested_loops/_putchar.c
+|4,39,13,0,1694887407,"~/alx-low_level_programming/0x04-more_functions_nested_loops/_putchar.c"
+-'  13  0  ~/alx-low_level_programming/0x04-more_functions_nested_loops/_putchar.c
+|4,39,13,0,1694887407,"~/alx-low_level_programming/0x04-more_functions_nested_loops/_putchar.c"
+-'  13  0  ~/alx-low_level_programming/0x04-more_functions_nested_loops/_putchar.c
+|4,39,13,0,1694887407,"~/alx-low_level_programming/0x04-more_functions_nested_loops/_putchar.c"
+-'  13  0  ~/alx-low_level_programming/0x04-more_functions_nested_loops/_putchar.c
+|4,39,13,0,1694887407,"~/alx-low_level_programming/0x04-more_functions_nested_loops/_putchar.c"
+-'  13  0  ~/alx-low_level_programming/0x04-more_functions_nested_loops/_putchar.c
+|4,39,13,0,1694887407,"~/alx-low_level_programming/0x04-more_functions_nested_loops/_putchar.c"
+-'  13  0  ~/alx-low_level_programming/0x04-more_functions_nested_loops/_putchar.c
+|4,39,13,0,1694887407,"~/alx-low_level_programming/0x04-more_functions_nested_loops/_putchar.c"
+-'  13  0  ~/alx-low_level_programming/0x04-more_functions_nested_loops/_putchar.c
+|4,39,13,0,1694887407,"~/alx-low_level_programming/0x04-more_functions_nested_loops/_putchar.c"
+-'  13  0  ~/alx-low_level_programming/0x04-more_functions_nested_loops/_putchar.c
+|4,39,13,0,1694887407,"~/alx-low_level_programming/0x04-more_functions_nested_loops/_putchar.c"
+-'  13  0  ~/alx-low_level_programming/0x04-more_functions_nested_loops/_putchar.c
+|4,39,13,0,1694887407,"~/alx-low_level_programming/0x04-more_functions_nested_loops/_putchar.c"
+-'  13  0  ~/alx-low_level_programming/0x04-more_functions_nested_loops/_putchar.c
+|4,39,13,0,1694887407,"~/alx-low_level_programming/0x04-more_functions_nested_loops/_putchar.c"
+-'  13  0  ~/alx-low_level_programming/0x04-more_functions_nested_loops/_putchar.c
+|4,39,13,0,1694887407,"~/alx-low_level_programming/0x04-more_functions_nested_loops/_putchar.c"
+-'  13  0  ~/alx-low_level_programming/0x04-more_functions_nested_loops/_putchar.c
+|4,39,13,0,1694887407,"~/alx-low_level_programming/0x04-more_functions_nested_loops/_putchar.c"
+-'  13  0  ~/alx-low_level_programming/0x04-more_functions_nested_loops/_putchar.c
+|4,39,13,0,1694887407,"~/alx-low_level_programming/0x04-more_functions_nested_loops/_putchar.c"
+-'  13  0  ~/alx-low_level_programming/0x04-more_functions_nested_loops/_putchar.c
+|4,39,13,0,1694887407,"~/alx-low_level_programming/0x04-more_functions_nested_loops/_putchar.c"
+-'  13  0  ~/alx-low_level_programming/0x04-more_functions_nested_loops/_putchar.c
+|4,39,13,0,1694887407,"~/alx-low_level_programming/0x04-more_functions_nested_loops/_putchar.c"
+-'  1  0  ~/alx-low_level_programming/0x04-more_functions_nested_loops/_putchar.c
+|4,39,1,0,1694887378,"~/alx-low_level_programming/0x04-more_functions_nested_loops/_putchar.c"
+-'  1  0  ~/alx-low_level_programming/0x04-more_functions_nested_loops/_putchar.c
+|4,39,1,0,1694887378,"~/alx-low_level_programming/0x04-more_functions_nested_loops/_putchar.c"
+-'  1  0  ~/alx-low_level_programming/0x04-more_functions_nested_loops/_putchar.c
+|4,39,1,0,1694887378,"~/alx-low_level_programming/0x04-more_functions_nested_loops/_putchar.c"
+-'  1  0  ~/alx-low_level_programming/0x04-more_functions_nested_loops/_putchar.c
+|4,39,1,0,1694887378,"~/alx-low_level_programming/0x04-more_functions_nested_loops/_putchar.c"
+-'  1  0  ~/alx-low_level_programming/0x04-more_functions_nested_loops/_putchar.c
+|4,39,1,0,1694887378,"~/alx-low_level_programming/0x04-more_functions_nested_loops/_putchar.c"
+-'  1  0  ~/alx-low_level_programming/0x04-more_functions_nested_loops/_putchar.c
+|4,39,1,0,1694887378,"~/alx-low_level_programming/0x04-more_functions_nested_loops/_putchar.c"
+-'  1  0  ~/alx-low_level_programming/0x04-more_functions_nested_loops/_putchar.c
+|4,39,1,0,1694887378,"~/alx-low_level_programming/0x04-more_functions_nested_loops/_putchar.c"
+-'  1  0  ~/alx-low_level_programming/0x04-more_functions_nested_loops/_putchar.c
+|4,39,1,0,1694887378,"~/alx-low_level_programming/0x04-more_functions_nested_loops/_putchar.c"
+-'  1  0  ~/alx-low_level_programming/0x04-more_functions_nested_loops/_putchar.c
+|4,39,1,0,1694887378,"~/alx-low_level_programming/0x04-more_functions_nested_loops/_putchar.c"
+-'  1  0  ~/alx-low_level_programming/0x04-more_functions_nested_loops/_putchar.c
+|4,39,1,0,1694887378,"~/alx-low_level_programming/0x04-more_functions_nested_loops/_putchar.c"
+-'  1  0  ~/alx-low_level_programming/0x04-more_functions_nested_loops/_putchar.c
+|4,39,1,0,1694887378,"~/alx-low_level_programming/0x04-more_functions_nested_loops/_putchar.c"
+-'  1  0  ~/alx-low_level_programming/0x04-more_functions_nested_loops/_putchar.c
+|4,39,1,0,1694887378,"~/alx-low_level_programming/0x04-more_functions_nested_loops/_putchar.c"
+-'  1  0  ~/alx-low_level_programming/0x04-more_functions_nested_loops/_putchar.c
+|4,39,1,0,1694887378,"~/alx-low_level_programming/0x04-more_functions_nested_loops/_putchar.c"
+-'  1  0  ~/alx-low_level_programming/0x04-more_functions_nested_loops/_putchar.c
+|4,39,1,0,1694887378,"~/alx-low_level_programming/0x04-more_functions_nested_loops/_putchar.c"
+-'  1  0  ~/alx-low_level_programming/0x04-more_functions_nested_loops/_putchar.c
+|4,39,1,0,1694887378,"~/alx-low_level_programming/0x04-more_functions_nested_loops/_putchar.c"
+-'  1  0  ~/alx-low_level_programming/0x04-more_functions_nested_loops/_putchar.c
+|4,39,1,0,1694887378,"~/alx-low_level_programming/0x04-more_functions_nested_loops/_putchar.c"
 -'  1  0  ~/alx-low_level_programming/0x04-more_functions_nested_loops/_putchar.c
 |4,39,1,0,1694887378,"~/alx-low_level_programming/0x04-more_functions_nested_loops/_putchar.c"
 -'  1  0  ~/alx-low_level_programming/0x04-more_functions_nested_loops/_putchar.c
@@ -165,103 +257,11 @@
 |4,39,12,24,1694887365,"~/alx-low_level_programming/0x04-more_functions_nested_loops/Main.h"
 -'  12  24  ~/alx-low_level_programming/0x04-more_functions_nested_loops/Main.h
 |4,39,12,24,1694887365,"~/alx-low_level_programming/0x04-more_functions_nested_loops/Main.h"
--'  12  24  ~/alx-low_level_programming/0x04-more_functions_nested_loops/Main.h
-|4,39,12,24,1694887365,"~/alx-low_level_programming/0x04-more_functions_nested_loops/Main.h"
--'  12  24  ~/alx-low_level_programming/0x04-more_functions_nested_loops/Main.h
-|4,39,12,24,1694887365,"~/alx-low_level_programming/0x04-more_functions_nested_loops/Main.h"
--'  12  24  ~/alx-low_level_programming/0x04-more_functions_nested_loops/Main.h
-|4,39,12,24,1694887365,"~/alx-low_level_programming/0x04-more_functions_nested_loops/Main.h"
--'  12  24  ~/alx-low_level_programming/0x04-more_functions_nested_loops/Main.h
-|4,39,12,24,1694887365,"~/alx-low_level_programming/0x04-more_functions_nested_loops/Main.h"
--'  12  24  ~/alx-low_level_programming/0x04-more_functions_nested_loops/Main.h
-|4,39,12,24,1694887365,"~/alx-low_level_programming/0x04-more_functions_nested_loops/Main.h"
--'  12  24  ~/alx-low_level_programming/0x04-more_functions_nested_loops/Main.h
-|4,39,12,24,1694887365,"~/alx-low_level_programming/0x04-more_functions_nested_loops/Main.h"
--'  12  24  ~/alx-low_level_programming/0x04-more_functions_nested_loops/Main.h
-|4,39,12,24,1694887365,"~/alx-low_level_programming/0x04-more_functions_nested_loops/Main.h"
--'  12  24  ~/alx-low_level_programming/0x04-more_functions_nested_loops/Main.h
-|4,39,12,24,1694887365,"~/alx-low_level_programming/0x04-more_functions_nested_loops/Main.h"
--'  12  24  ~/alx-low_level_programming/0x04-more_functions_nested_loops/Main.h
-|4,39,12,24,1694887365,"~/alx-low_level_programming/0x04-more_functions_nested_loops/Main.h"
--'  12  24  ~/alx-low_level_programming/0x04-more_functions_nested_loops/Main.h
-|4,39,12,24,1694887365,"~/alx-low_level_programming/0x04-more_functions_nested_loops/Main.h"
--'  12  24  ~/alx-low_level_programming/0x04-more_functions_nested_loops/Main.h
-|4,39,12,24,1694887365,"~/alx-low_level_programming/0x04-more_functions_nested_loops/Main.h"
--'  12  24  ~/alx-low_level_programming/0x04-more_functions_nested_loops/Main.h
-|4,39,12,24,1694887365,"~/alx-low_level_programming/0x04-more_functions_nested_loops/Main.h"
--'  12  24  ~/alx-low_level_programming/0x04-more_functions_nested_loops/Main.h
-|4,39,12,24,1694887365,"~/alx-low_level_programming/0x04-more_functions_nested_loops/Main.h"
--'  12  24  ~/alx-low_level_programming/0x04-more_functions_nested_loops/Main.h
-|4,39,12,24,1694887365,"~/alx-low_level_programming/0x04-more_functions_nested_loops/Main.h"
--'  12  24  ~/alx-low_level_programming/0x04-more_functions_nested_loops/Main.h
-|4,39,12,24,1694887365,"~/alx-low_level_programming/0x04-more_functions_nested_loops/Main.h"
--'  12  24  ~/alx-low_level_programming/0x04-more_functions_nested_loops/Main.h
-|4,39,12,24,1694887365,"~/alx-low_level_programming/0x04-more_functions_nested_loops/Main.h"
--'  12  24  ~/alx-low_level_programming/0x04-more_functions_nested_loops/Main.h
-|4,39,12,24,1694887365,"~/alx-low_level_programming/0x04-more_functions_nested_loops/Main.h"
--'  12  24  ~/alx-low_level_programming/0x04-more_functions_nested_loops/Main.h
-|4,39,12,24,1694887365,"~/alx-low_level_programming/0x04-more_functions_nested_loops/Main.h"
--'  12  24  ~/alx-low_level_programming/0x04-more_functions_nested_loops/Main.h
-|4,39,12,24,1694887365,"~/alx-low_level_programming/0x04-more_functions_nested_loops/Main.h"
--'  12  24  ~/alx-low_level_programming/0x04-more_functions_nested_loops/Main.h
-|4,39,12,24,1694887365,"~/alx-low_level_programming/0x04-more_functions_nested_loops/Main.h"
--'  12  24  ~/alx-low_level_programming/0x04-more_functions_nested_loops/Main.h
-|4,39,12,24,1694887365,"~/alx-low_level_programming/0x04-more_functions_nested_loops/Main.h"
--'  12  24  ~/alx-low_level_programming/0x04-more_functions_nested_loops/Main.h
-|4,39,12,24,1694887365,"~/alx-low_level_programming/0x04-more_functions_nested_loops/Main.h"
--'  12  24  ~/alx-low_level_programming/0x04-more_functions_nested_loops/Main.h
-|4,39,12,24,1694887365,"~/alx-low_level_programming/0x04-more_functions_nested_loops/Main.h"
--'  12  24  ~/alx-low_level_programming/0x04-more_functions_nested_loops/Main.h
-|4,39,12,24,1694887365,"~/alx-low_level_programming/0x04-more_functions_nested_loops/Main.h"
--'  12  24  ~/alx-low_level_programming/0x04-more_functions_nested_loops/Main.h
-|4,39,12,24,1694887365,"~/alx-low_level_programming/0x04-more_functions_nested_loops/Main.h"
--'  12  24  ~/alx-low_level_programming/0x04-more_functions_nested_loops/Main.h
-|4,39,12,24,1694887365,"~/alx-low_level_programming/0x04-more_functions_nested_loops/Main.h"
--'  12  24  ~/alx-low_level_programming/0x04-more_functions_nested_loops/Main.h
-|4,39,12,24,1694887365,"~/alx-low_level_programming/0x04-more_functions_nested_loops/Main.h"
--'  12  24  ~/alx-low_level_programming/0x04-more_functions_nested_loops/Main.h
-|4,39,12,24,1694887365,"~/alx-low_level_programming/0x04-more_functions_nested_loops/Main.h"
--'  1  0  ~/alx-low_level_programming/0x04-more_functions_nested_loops/Main.h
-|4,39,1,0,1694887260,"~/alx-low_level_programming/0x04-more_functions_nested_loops/Main.h"
--'  1  0  ~/alx-low_level_programming/0x04-more_functions_nested_loops/Main.h
-|4,39,1,0,1694887260,"~/alx-low_level_programming/0x04-more_functions_nested_loops/Main.h"
--'  1  0  ~/alx-low_level_programming/0x04-more_functions_nested_loops/Main.h
-|4,39,1,0,1694887260,"~/alx-low_level_programming/0x04-more_functions_nested_loops/Main.h"
--'  1  0  ~/alx-low_level_programming/0x04-more_functions_nested_loops/Main.h
-|4,39,1,0,1694887260,"~/alx-low_level_programming/0x04-more_functions_nested_loops/Main.h"
--'  1  0  ~/alx-low_level_programming/0x04-more_functions_nested_loops/Main.h
-|4,39,1,0,1694887260,"~/alx-low_level_programming/0x04-more_functions_nested_loops/Main.h"
--'  1  0  ~/alx-low_level_programming/0x04-more_functions_nested_loops/Main.h
-|4,39,1,0,1694887260,"~/alx-low_level_programming/0x04-more_functions_nested_loops/Main.h"
--'  1  0  ~/alx-low_level_programming/0x04-more_functions_nested_loops/Main.h
-|4,39,1,0,1694887260,"~/alx-low_level_programming/0x04-more_functions_nested_loops/Main.h"
--'  1  0  ~/alx-low_level_programming/0x04-more_functions_nested_loops/Main.h
-|4,39,1,0,1694887260,"~/alx-low_level_programming/0x04-more_functions_nested_loops/Main.h"
--'  1  0  ~/alx-low_level_programming/0x04-more_functions_nested_loops/Main.h
-|4,39,1,0,1694887260,"~/alx-low_level_programming/0x04-more_functions_nested_loops/Main.h"
--'  1  0  ~/alx-low_level_programming/0x04-more_functions_nested_loops/Main.h
-|4,39,1,0,1694887260,"~/alx-low_level_programming/0x04-more_functions_nested_loops/Main.h"
--'  1  0  ~/alx-low_level_programming/0x04-more_functions_nested_loops/Main.h
-|4,39,1,0,1694887260,"~/alx-low_level_programming/0x04-more_functions_nested_loops/Main.h"
--'  1  0  ~/alx-low_level_programming/0x04-more_functions_nested_loops/Main.h
-|4,39,1,0,1694887260,"~/alx-low_level_programming/0x04-more_functions_nested_loops/Main.h"
--'  1  0  ~/alx-low_level_programming/0x04-more_functions_nested_loops/Main.h
-|4,39,1,0,1694887260,"~/alx-low_level_programming/0x04-more_functions_nested_loops/Main.h"
--'  1  0  ~/alx-low_level_programming/0x04-more_functions_nested_loops/Main.h
-|4,39,1,0,1694887260,"~/alx-low_level_programming/0x04-more_functions_nested_loops/Main.h"
--'  1  0  ~/alx-low_level_programming/0x04-more_functions_nested_loops/Main.h
-|4,39,1,0,1694887260,"~/alx-low_level_programming/0x04-more_functions_nested_loops/Main.h"
--'  1  0  ~/alx-low_level_programming/0x04-more_functions_nested_loops/Main.h
-|4,39,1,0,1694887260,"~/alx-low_level_programming/0x04-more_functions_nested_loops/Main.h"
--'  1  0  ~/alx-low_level_programming/0x04-more_functions_nested_loops/Main.h
-|4,39,1,0,1694887260,"~/alx-low_level_programming/0x04-more_functions_nested_loops/Main.h"
--'  1  0  ~/alx-low_level_programming/0x04-more_functions_nested_loops/Main.h
-|4,39,1,0,1694887260,"~/alx-low_level_programming/0x04-more_functions_nested_loops/Main.h"
 
 # History of marks within files (newest to oldest):
 
 > ~/alx-low_level_programming/0x04-more_functions_nested_loops/0-isupper.c
-	*	1694893302	0
+	*	1694895804	0
 	"	33	0
 	^	33	1
 	.	33	1
